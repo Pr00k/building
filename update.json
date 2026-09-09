@@ -1,0 +1,5 @@
+{
+  "version": "2.0.0",
+  "deb": "building_2.0.0-1_amd64.deb",
+  "note": "الأداة صارت باني مشاريع: اختر مجلد مشروعك فيكشف نوعه (Flutter/React Native/Capacitor/Cordova/Electron/.NET/Gradle/Buildozer/Godot/Python/ويب)، ثم اختر الصيغة APK أو AAB أو IPA أو EXE أو MSI أو DEB أو AppImage، مع حقول اسم التطبيق والإصدار ورقم البناء ومعرّف الحزمة والأيقونة، وخيار دعم الأجهزة والإصدارات القديمة (minSdk + 32-bit + أدنى iOS)، وأمر البناء معروض قبل التنفيذ، وسجل حي، وشريط تقدم حقيقي من نسب أدوات البناء نفسها"
+}
